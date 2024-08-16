@@ -13,6 +13,8 @@ protocol ProtocolA {
     func smth2()
     func smth3()
     func smth4()
+//    func smth5()
+    // awlkmawd lmawd lkm
 }
 
 class ProtocolAImpl: ProtocolA {
